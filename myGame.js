@@ -17,7 +17,7 @@ var config = {
 
 var game = new Phaser.Game(config);
 
-var player, otherPlayer;
+var player;
 var score = 0;
 var gameOver = false
 var scoreText
